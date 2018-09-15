@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">iHealthy</string>
+    <string name="icon">Icon</string>
+    <string name="title">title</string>
+    <string name="altura">Height:</string>
+    <string name="cm">Mts</string>
+    <string name="foot">Feet</string>
+    <string name="alturaCm">Feet</string>
+    <string-array name="alturaPies"><item>4</item><item>5</item><item>6</item></string-array>
+    <string-array name="alturaPulgada"><item>0</item><item>1</item><item>2</item> <item>3</item> <item>4</item> <item>5</item><item>6</item><item>7</item><item>8</item><item>9</item><item>10</item><item>11</item></string-array>
+    <string name="complexion">Complexion</string>
+    <string name="btnWeight">Ideal Weight</string>
+    <string name="textviewMin">Min.</string>
+    <string name="textviewMax">Max.</string>
+    <string name="don_t_know_your_complexion_click_here">Know your complexion</string>
+    <string name="gender">Gender</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="info">Wrap your thumb and middle finger around the opposite wrist. As you see in the next images:</string>
+    <string name="small">If the fingers overlap, you have a small physical complexion.</string>
+    <string name="medium">If they barely touch each other, you have a medium physical complexion</string>
+    <string name="large">If your fingers do not touch each other, you have a large physical complexion</string>
+    <string-array name="alturaCm"> <item>1.40</item> <item>1.42</item> <item>1.44</item><item>1.46</item><item>1.48</item><item>1.50</item><item>1.52</item><item>1.54</item><item>1.56</item><item>1.58</item><item>1.60</item><item>1.62</item><item>1.64</item><item>1.66</item><item>1.68</item><item>1.70</item><item>1.72</item><item>1.74</item><item>1.76</item><item>1.78</item><item>1.80</item><item>1.82</item><item>1.84</item><item>1.86</item><item>1.88</item><item>1.90</item><item>1.92</item><item>1.94</item> </string-array>
+    <string-array name="complex"> <item> Small</item> <item>Medium</item><item>Large</item></string-array>
+
+</resources>
